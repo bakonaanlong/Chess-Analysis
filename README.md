@@ -14,7 +14,7 @@ FEATURES
 - Visualizations: Bar charts, treemaps, graphics, and KPI's.
 Key Insights: 
 - I dominated the most over indians with 73% of my games against them end with Wins
-- A chunk of my games were won by checkmates
+- A chunk of my games were won by checkmates.
 
   
 TECHNOLOGIES USED
